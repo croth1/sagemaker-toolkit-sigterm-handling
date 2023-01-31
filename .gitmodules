@@ -1,0 +1,7 @@
+[submodule "sagemaker-training-toolkit"]
+	path = sagemaker-training-toolkit
+	url = https://github.com/aws/sagemaker-training-toolkit.git
+[submodule "sagemaker-training-toolkit-sigterm"]
+	path = sagemaker-training-toolkit-sigterm
+	url = git@github.com:croth1/sagemaker-training-toolkit.git
+	branch = sigterm_forwarding
